@@ -56,3 +56,7 @@ The complete firmware-to-profile procedure is recorded in
 versioned artifacts are documented in [`kernelsu/README.md`](kernelsu/README.md).
 
 Use only on devices you own or are explicitly authorized to test.
+
+## Screenshots
+![Root My Galaxy App on S9 FE](docs/S9FE_WIFI_Screenshot_Root-My-Galaxy-App.jpg)
+![KernelSU Manager on S9 FE](docs/S9FE_WIFI_Screenshot_KernelSU_Manager.jpg)
